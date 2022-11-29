@@ -1,2 +1,24 @@
-# Consumo_endpoints_fotos_Vue.js
-Desenvolver uma aplicação utilizando Vue.js que deverá consumir alguns serviços da API pública disponibilizada pelo site JSONPlaceholder (https://jsonplaceholder.typicode.com/).
+# photos
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
